@@ -1,79 +1,61 @@
 \documentclass{resume}
 
+\usepackage{xcolor}
 \begin{document}
 
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\newcommand\tob[1][0.2cm]{\hspace*{#1}}
 \fontfamily{ppl}\selectfont
 
 \noindent
+%====================================================================
 \begin{tabularx}{\linewidth}{@{}m{0.8\textwidth} m{0.2\textwidth}@{}}
 {
-    \Large{Akash Ramanand Rajak} \newline
+    \Large\textcolor{red}{\textbf{Akash Ramanand Rajak}} \newline
     \small{
         \clink{
-            \href{mailto:aakashrajak02@gmail.com}{aakashrajak02@gmail.com} \textbf{·}
+            \href{mailto:aakashrajak02@gmail.com}{\textcolor{cyan}{\underline{aakashrajak02@gmail.com}}} \tob\textbf{|}\tob
             % \href{mailto:435_bt19@iiitkalyani.ac.in}{435_bt19@iiitkalyani.ac.in}
             %\newline
-            {\fontdimen2\font=0.75ex +91 8980153352} 
+            {\fontdimen2\font=0.75ex \textcolor{violet}{+91 8980153352}} 
             % \textbf{·} 
             %\href{https://johnmyweb.com}{johnmyweb.com}
         } \newline
-        \clink{
-        	\href{https://github.com/akash435}{Github}
-        	\textbf{·} 
-        	\href{https://www.linkedin.com/in/akash-rajak-akash435/}{Linkedin}\textbf{·}
-        	\href{https://www.hackerrank.com/aakashrajak02?hr_r=1}{HackerRank}\textbf{·}
-        	\href{https://www.codechef.com/users/akash435}{CodeChef}
-        	\textbf{·}
-        	\href{https://codeforces.com/profile/aakashrajak02}{Codeforces}
-        	\textbf{·}
-        	\href{https://leetcode.com/akash435/}{LeetCode}
-            %\newline
-        } \newline
-        Gujarat, India
+        \textcolor{violet}{D.O.B\tob :\tob 22 Nov, 1999}
+        \newline
+        \textcolor{violet}{Gujarat, India}
     }
-} & 
+}
+%====================================================================
+ & 
 {
     \hfill
-    \includegraphics[width=2.8cm]{images/image1.png}
+    \includegraphics[width=3.0cm]{images/image1.png}
 }
 \end{tabularx}
 \begin{center}
 \begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
 % left side %
 {
-    \csection{EXPERIENCE}{\small
+	\csection{\textcolor{blue}{EDUCATION}}{\small
         \begin{itemize}
             % item 1 %
-            \item \frcontent{Student Member}{Student Member at Developer Student Club - IIIT Kalyani}{}{JAN 2021 - MAR 2021}
-            % item 2 %
-            % \item \frcontent{Old Dream Company}{Senior Member of Technical Staff − Texas}{Designer and implementor of a system for retrieving and caching electronic commerce content including a crawler and custom full-text indexing system that allows flexible keyword searching of product information.}{February 1999 to August 1999}
+            \item \frcontent{\textcolor{violet}{SSC}}{Gujarat Refinery English Medium School}{Percentile\tob :\tob 98.95\tab Grade\tob :\tob A2}{2014 - 2016}
+            \item \frcontent{\textcolor{violet}{HSC - Maths, Physics, Chemistry}}{Baroda High School, Alkapuri}{Percentile\tob :\tob 92.06}{2016 - 2018}
+            \item \frcontent{\textcolor{violet}{B - Tech Computer Science}}{Indian Institute of Information Technology, Kalyani}{Sem - 1\tob :\tob 9.375 CGPA\tab Sem - 5\tob :\tob 0.000 CGPA\newline Sem - 2\tob :\tob 9.167 CGPA\tab Sem - 6\tob :\tob 0.000 CGPA\newline Sem - 3\tob :\tob 8.297 CGPA\tab Sem - 7\tob :\tob 0.000 CGPA\newline Sem - 4\tob :\tob 0.000 CGPA\tab Sem - 8\tob :\tob 0.000 CGPA}{2019 - 2023}
         \end{itemize}
     }
-    \csection{EDUCATION}{\small
+    
+    \csection{\textcolor{blue}{COURSES}}{\small
         \begin{itemize}
-            % item 1 %
-            \item \frcontent{HSC - Maths, Physics, Chemistry}{Baroda High School, Alkapuri}{}{2016 - 2018}
-            \item \frcontent{B - Tech Computer Science}{Indian Institute of Information Technology, Kalyani}{}{2019 - 2023}
-        \end{itemize}
-    }
-    \csection{COURSES}{\small
-        \begin{itemize}
-            \item \textbf{Mathematics} \newline
-            {\footnotesize Probability and Statistics, Dicrete Mathematics, Linear Algebra, Calculus}{}{}
-            \item \textbf{Computer Science} \newline
-            {\footnotesize Programming with C, Data Structure and Algorithm, Algorithm - 1, Computer Architecture, Automata Theory}
-            \item \textbf{Electronics} \newline
-            {\footnotesize Digital Electronics, Analog Electronics}
-        \end{itemize}
-    }
-    \csection{SKILLS}{\small
-        \begin{itemize}
-            \item \textbf{Technologies} \newline
-            {\footnotesize C, C++, Java, Python, HTML, CSS, Android Development, Scilab, Qtspim}{}{}
-            \item \textbf{Patterns \& Practices} \newline
-            {\footnotesize Object Oriented Programming, Competitive Programming}
-            \item \textbf{Languages} \newline
-            {\footnotesize English, Hindi, Gujarati}
+            \item \textbf{\textcolor{violet}{Mathematics}} \newline
+            {\footnotesize Linear Algebra, Probability and Statistics, Dicrete Mathematics,  Calculus and Differential Equation, Numerical Analysis and Computing}{}{}
+            \item \textbf{\textcolor{violet}{Computer Science}} \newline
+            {\footnotesize Programming with C, Data Structure and Algorithm, Algorithm Analysis and Design, Computer Architecture, Formal Language and Automata Theory, Data Science(Python), Operating System, Object Oriented Programming(JAVA), Scilab}
+            \item \textbf{\textcolor{violet}{Electronics}} \newline
+            {\footnotesize Digital Electronics, Analog Electronics, Data Communication, Signals and Systems}
+            \item \textbf{\textcolor{violet}{Others}} \newline
+            {\footnotesize Physics, Ethics, Economics, Humanity(Psycology)}
         \end{itemize}
     }
 } 
@@ -81,20 +63,86 @@
 & 
 % right side %
 {
-    \csection{PROJECTS}{\small
+	\csection{\textcolor{blue}{LINKS}}{\small
         \begin{itemize}
-            \item \frcontent{CaveManGame \clink{\href{https://github.com/akash435/Cave-Man-Game}{[github.com/Cave-Man-Game]}}}{- An Android based adventurous game app.}{- Used Android Studio as Frotend part and java code and Sqlite database part as backend, and developed a simple android game app.\newline - In this we get a chance to play the game of selected level, also have option to play music, can also see the highscore of each level, and many more.}{+ Features used - Java, Android, Sqlite database}
-            \item \frcontent{NegativeDecimalToBinary \clink{\href{https://github.com/akash435/Negative-Decimal-to-Binary}{[github.com/NegativeDecimaltoBinary]}}}{- C Program to convert Negative Decimal No. to equivalent Binary No.}{- Tried to convert the negative decimal number and counted for the first 100 negative decimal number and displayed it in .txt file.}{+ Features used - C Language, File Handling}
-            \item \frcontent{Tabular-ML \clink{\href{https://github.com/akash435/Tabular-ML}{[https://github.com/Tabular-ML]}}}{-      Built an end-to-end ML system for tabular datasets.}{ - Took a sample titanic event dataset and from the tabular dataset predicted the how many childrens,, mens, womens, captains, etc. got rescued and how many died and injured.\newline - Used the Python packages like numpy, random, pandas, seaborn, matplotlib.pyplot, etc. and we accordingly trained the data and tested also.}{+ Features used - Python, Jupiter Notebook}
+            \item 
+            \clink{
+        	\href{https://github.com/akash435}{\textcolor{cyan}{\underline{Github}}}
+        	\tob\textbf{·}\tob 
+        	\href{https://www.linkedin.com/in/akash-rajak-akash435/}{\textcolor{cyan}{\underline{Linkedin}}}
+        	\tob\textbf{·}\tob
+        	\href{https://www.hackerrank.com/aakashrajak02?hr_r=1}{\textcolor{cyan}{\underline{HackerRank}}}
+        }
         \end{itemize}
-    }
-    \csection{OTHER HIGHLIGHTS}{\small
+        
         \begin{itemize}
-            \item {\footnotesize Participated in Google Coding Competition - HashCode 2021, CodeJam 2021, KickStart 2021.}
-            \item {\footnotesize Participated in Devfolio Hackathon HackData 5.0, with project BSM.}
+            \item 
+            \clink{
+        	\href{https://www.codechef.com/users/akash435}{\textcolor{cyan}{\underline{CodeChef}}}
+        	\tob\textbf{·}\tob
+        	\href{https://codeforces.com/profile/aakashrajak02}{\textcolor{cyan}{\underline{Codeforces}}}
+        	\tob\textbf{·}\tob
+        	\href{https://leetcode.com/akash435/}{\textcolor{cyan}{\underline{LeetCode}}}
+            %\newline
+        }
         \end{itemize}
     }
     
+    \csection{\textcolor{blue}{PROJECTS}}{\small
+        \begin{itemize}
+            \item \frcontent{\textcolor{violet}{CaveManGame} \clink{\href{https://github.com/akash435/Cave-Man-Game}{\textcolor{cyan}{\underline{[github.com/Cave-Man-Game]}}}}}{- An Android based adventurous game app.}{- Used Android Studio as Frotend part and java code and Sqlite database part as backend, and developed a simple android game app.\newline - In this we get a chance to play the game of selected level, also have option to play music, can also see the highscore of each level, and many more.}{+ Features used - Java, Android, Sqlite database}
+            \item \frcontent{\textcolor{violet}{NegativeDecimalToBinary} \clink{\href{https://github.com/akash435/Negative-Decimal-to-Binary}{\textcolor{cyan}{\underline{[github.com/NegativeDecimaltoBinary]}}}}}{- C Program to convert Negative Decimal No. to equivalent Binary No.}{- Tried to convert the negative decimal number and counted for the first 100 negative decimal number and displayed it in .txt file.}{+ Features used - C Language, File Handling}
+            \item \frcontent{\textcolor{violet}{Tabular-ML} \clink{\href{https://github.com/akash435/Tabular-ML}{\textcolor{cyan}{\underline{[github.com/Tabular-ML]}}}}}{-      Built an end-to-end ML system for tabular datasets.}{ - Took a sample titanic event dataset and from the tabular dataset predicted the how many childrens,, mens, womens, captains, etc. got rescued and how many died and injured.\newline - Used the Python packages like numpy, random, pandas, seaborn, matplotlib.pyplot, etc. and we accordingly trained the data and tested also.}{+ Features used - Python, Jupiter Notebook}
+        \end{itemize}
+    }
+    
+}
+\end{tabularx}
+\end{center}
+
+\begin{center}
+\begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
+% left side %
+{
+	\csection{\textcolor{blue}{SKILLS}}{\small
+        \begin{itemize}
+        	\item \textbf{\textcolor{violet}{Programming Languages}} \newline
+            {\footnotesize C, C++, Java, Python, HTML, CSS}{}{}
+            \item \textbf{\textcolor{violet}{Technologies}} \newline
+            {\footnotesize Pycharm, Jupiter Notebook, Eclipse,  Android Development, Scilab, Qtspim}{}{}
+            \item \textbf{\textcolor{violet}{Patterns \& Practices}} \newline
+            {\footnotesize Object Oriented Programming, Competitive Programming}
+            \item \textbf{\textcolor{violet}{Languages}} \newline
+            {\footnotesize English, Hindi, Gujarati}
+        \end{itemize}
+    }
+    
+    \csection{\textcolor{blue}{Events \& Participations}}{\small
+        \begin{itemize}
+            \item {\footnotesize Participated in Google Coding Competition - HashCode 2021, CodeJam 2021, KickStart 2021.}
+            \item {\footnotesize Participated in Devfolio Hackathon HackData 5.0, with project BSM.}
+            \item {\footnotesize Participated in Code Kaze'21 - Online Coding Competion by Coding Ninjas.}
+            \item {\footnotesize Participated in Code Frenzy - Online Coding Competion by Coding Ninjas.}
+        \end{itemize}
+    }
+    
+    \csection{\textcolor{blue}{Interests \& Hobbies}}{\small
+        \begin{itemize}
+            \item {\footnotesize Competitive Programming}
+            \item {\footnotesize Open Source}
+        \end{itemize}
+    }
+    
+} 
+% end left side %
+& 
+% right side %
+{
+   	\csection{\textcolor{blue}{EXPERIENCE}}{\small
+        \begin{itemize}
+            \item \frcontent{\textcolor{violet}{Student Member of Winter Of Code}}{Developer Student Club - IIIT Kalyani}{- Mentored by\tob :\tob Omkar Ajnadkar\newline - Project\tob :\tob Tabular Ml (An end-to-end ML system for tabular datasets.\newline - Participated in Android Study Jam.}{JAN 2021 - MAR 2021}
+        \end{itemize}
+    }
 }
 \end{tabularx}
 \end{center}
