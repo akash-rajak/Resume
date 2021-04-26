@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  26 APR 2021 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  26 APR 2021 12:08
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -493,7 +493,7 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  10982 strings out of 479334
  164700 string characters out of 2857084
- 513748 words of memory out of 3000000
+ 514816 words of memory out of 3000000
  28250 multiletter control sequences out of 15000+200000
  416562 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -507,7 +507,7 @@ aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Use
 rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
 
-Output written on My_Resume.pdf (2 pages, 1021924 bytes).
+Output written on My_Resume.pdf (2 pages, 1022585 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
