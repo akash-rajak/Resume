@@ -3,12 +3,18 @@
 \usepackage{xcolor}
 \begin{document}
 
+% new command defined ---------------------------------------------
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 \newcommand\tob[1][0.2cm]{\hspace*{#1}}
 \fontfamily{ppl}\selectfont
+% -----------------------------------------------------------------
+
+% *************** PAGE - 1 ******************************************
+
+% ======== INTRODUCTION PART ========================================
 
 \noindent
-%====================================================================
+% TOP general detais part ------------------------------------------
 \begin{tabularx}{\linewidth}{@{}m{0.8\textwidth} m{0.2\textwidth}@{}}
 {
 	% \includegraphics[width=0.6cm]{images/image3.png}
@@ -23,23 +29,32 @@
             %\href{https://johnmyweb.com}{johnmyweb.com}
         } \newline
         \includegraphics[width=0.4cm]{images/calender.png}
-        \textcolor{violet}{D.O.B\tob :\tob 22 Nov, 1999}
+        \textcolor{violet}{D.O.B.\tob :\tob 22 Nov, 1999}
         \newline
         \includegraphics[width=0.4cm]{images/location.png}
         \textcolor{violet}{Gujarat, India}
     }
 }
-%====================================================================
+% ------------------------------------------------------------------
+
  & 
+
+% Image Part ------------------------------------------------------
 {
     \hfill
     \includegraphics[width=3.0cm]{images/image3.png}
 }
+% -----------------------------------------------------------------
 \end{tabularx}
+
+% ===================================================================
+
+
 \begin{center}
 \begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
 % left side %
 {
+	% -------- EDUCATION PART ----------------------------------
 	\csection{\textcolor{blue}{EDUCATION}}{\small
         \begin{itemize}
             % item 1 %
@@ -49,6 +64,7 @@
         \end{itemize}
     }
     
+    % -------- COURSES PART ----------------------------------
     \csection{\textcolor{blue}{COURSES}}{\small
         \begin{itemize}
             \item \textbf{\textcolor{violet}{Mathematics}} \newline
@@ -66,6 +82,7 @@
 & 
 % right side %
 {
+	% -------- LINKS PART ----------------------------------
 	\csection{\textcolor{blue}{LINKS}}{\small
         \begin{itemize}
             \item 
@@ -91,10 +108,16 @@
         \end{itemize}
     }
     
+    % -------- PROJECTS PART ----------------------------------
     \csection{\textcolor{blue}{PROJECTS}}{\small
         \begin{itemize}
+        	% PROJECT - 1 ----------------
             \item \frcontent{\textcolor{violet}{CaveManGame} \clink{\href{https://github.com/akash435/Cave-Man-Game}{\textcolor{cyan}{\underline{[github.com/Cave-Man-Game]}}}}}{- An Android based adventurous game app.}{- Used Android Studio as Frotend part and java code and Sqlite database part as backend, and developed a simple android game app.\newline - In this we get a chance to play the game of selected level, also have option to play music, can also see the highscore of each level, and many more.}{+ Features used - Java, Android, Sqlite database}
+            
+            % PROJECT - 2 ----------------
             \item \frcontent{\textcolor{violet}{NegativeDecimalToBinary} \clink{\href{https://github.com/akash435/Negative-Decimal-to-Binary}{\textcolor{cyan}{\underline{[github.com/NegativeDecimaltoBinary]}}}}}{- C Program to convert Negative Decimal No. to equivalent Binary No.}{- Tried to convert the negative decimal number and counted for the first 100 negative decimal number and displayed it in .txt file.}{+ Features used - C Language, File Handling}
+            
+            % PROJECT - 3 ----------------
             \item \frcontent{\textcolor{violet}{Tabular-ML} \clink{\href{https://github.com/akash435/Tabular-ML}{\textcolor{cyan}{\underline{[github.com/Tabular-ML]}}}}}{-      Built an end-to-end ML system for tabular datasets.}{ - Took a sample titanic event dataset and from the tabular dataset predicted the how many childrens,, mens, womens, captains, etc. got rescued and how many died and injured.\newline - Used the Python packages like numpy, random, pandas, seaborn, matplotlib.pyplot, etc. and we accordingly trained the data and tested also.}{+ Features used - Python, Jupiter Notebook}
         \end{itemize}
     }
@@ -102,11 +125,15 @@
 }
 \end{tabularx}
 \end{center}
+% ********************************************************************
+
+% *************** PAGE - 2 ******************************************
 
 \begin{center}
 \begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
 % left side %
 {
+	% -------- SKILLS PART ----------------------------------
 	\csection{\textcolor{blue}{SKILLS}}{\small
         \begin{itemize}
         	\item \textbf{\textcolor{violet}{Programming Languages}} \newline
@@ -114,12 +141,13 @@
             \item \textbf{\textcolor{violet}{Technologies}} \newline
             {\footnotesize Dev C++, Pycharm, Jupiter Notebook, Eclipse,  Android Studio, Scilab, Qtspim, Git \& Github}{}{}
             \item \textbf{\textcolor{violet}{Patterns \& Practices}} \newline
-            {\footnotesize Object Oriented Programming, Competitive Programming}
+            {\footnotesize Object Oriented Programming, Competitive Programming, Machine Learning}
             \item \textbf{\textcolor{violet}{Languages}} \newline
             {\footnotesize English,  Hindi,  Gujarati}
         \end{itemize}
     }
     
+    % -------- EVENTS & PARTICIPATIONS PART ----------------------------------
     \csection{\textcolor{blue}{Events \& Participations}}{\small
         \begin{itemize}
             \item {\footnotesize Participated in Google Coding Competition - HashCode 2021, CodeJam 2021, KickStart 2021.}
@@ -129,6 +157,7 @@
         \end{itemize}
     }
     
+    % -------- CERTIFICATIONS & AWARDS PART ----------------------------------
     \csection{\textcolor{blue}{Certifications \& Awards}}{\small
         \begin{itemize}
             \item 
@@ -171,12 +200,16 @@
 & 
 % right side %
 {
+	% -------- EXPERIENCE PART ----------------------------------
    	\csection{\textcolor{blue}{EXPERIENCE}}{\small
         \begin{itemize}
-            \item \frcontent{\textcolor{violet}{Student Member of Winter Of Code}}{Developer Student Club - IIIT Kalyani}{- Mentored by\tob :\tob Omkar Ajnadkar\newline - Project\tob :\tob Tabular Ml (An end-to-end ML system for tabular datasets.\newline - Participated in Android Study Jam.}{JAN 2021 - MAR 2021}
+            \item \frcontent{\textcolor{violet}{Student Member of Winter Of Code}}{Developer Student Club - IIIT Kalyani}{- Mentored by\tob :\tob Omkar Ajnadkar\newline - Project\tob :\tob Tabular Ml (An end-to-end ML system for tabular datasets).\newline - Participated in Android Study Jam.}{JAN 2021 - MAR 2021}
         \end{itemize}
     }
 }
 \end{tabularx}
 \end{center}
+
+% *******************************************************************
+
 \end{document}\
