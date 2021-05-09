@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  29 APR 2021 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  9 MAY 2021 11:20
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -456,6 +456,10 @@ File: images/mail.png Graphic file (type png)
 <use images/mail.png>
 Package pdftex.def Info: images/mail.png  used on input line 48.
 (pdftex.def)             Requested size: 11.38092pt x 8.41673pt.
+File: images/mail.png Graphic file (type png)
+<use images/mail.png>
+Package pdftex.def Info: images/mail.png  used on input line 48.
+(pdftex.def)             Requested size: 11.38092pt x 8.41673pt.
 File: images/phone.png Graphic file (type png)
 <use images/phone.png>
 Package pdftex.def Info: images/phone.png  used on input line 48.
@@ -534,7 +538,7 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  10515 strings out of 479334
  160176 string characters out of 2857084
- 513322 words of memory out of 3000000
+ 514493 words of memory out of 3000000
  27780 multiletter control sequences out of 15000+200000
  416257 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -547,9 +551,9 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1406454 bytes).
+Output written on My_Resume.pdf (2 pages, 1407068 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
