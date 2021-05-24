@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  24 MAY 2021 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  24 MAY 2021 11:26
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -510,6 +510,11 @@ File: images/leetcode.png Graphic file (type png)
 <use images/leetcode.png>
 Package pdftex.def Info: images/leetcode.png  used on input line 126.
 (pdftex.def)             Requested size: 11.38092pt x 11.61159pt.
+
+Underfull \hbox (badness 2359) in paragraph at lines 203--203
+\OT1/ppl/m/n/10 C, C++, Java, Python (Numpy, Pan-das, Tk-in-ter),
+ []
+
 [1
 
 {C:/Users/aakas/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images/mail.p
@@ -528,7 +533,7 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  10515 strings out of 479334
  160176 string characters out of 2857084
- 512869 words of memory out of 3000000
+ 512789 words of memory out of 3000000
  27780 multiletter control sequences out of 15000+200000
  416257 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -541,7 +546,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1405551 bytes).
+Output written on My_Resume.pdf (2 pages, 1405735 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
