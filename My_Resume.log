@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  22 MAY 2021 00:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  24 MAY 2021 10:47
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -528,11 +528,11 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  10515 strings out of 479334
  160176 string characters out of 2857084
- 515322 words of memory out of 3000000
+ 513864 words of memory out of 3000000
  27780 multiletter control sequences out of 15000+200000
  416257 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,13n,88p,626b,599s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 86i,13n,88p,577b,599s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:
 /Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Use
 rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Use
@@ -541,7 +541,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1405593 bytes).
+Output written on My_Resume.pdf (2 pages, 1405519 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
