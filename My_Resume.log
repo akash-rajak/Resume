@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  13 JUL 2021 08:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.7.14)  14 JUL 2021 11:14
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03> (resume.cls
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-06-18> (resume.cls
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
@@ -18,35 +18,35 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 \big@size=\dimen138
 )
-\c@part=\count179
-\c@chapter=\count180
-\c@section=\count181
-\c@subsection=\count182
-\c@subsubsection=\count183
-\c@paragraph=\count184
-\c@subparagraph=\count185
-\c@figure=\count186
-\c@table=\count187
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen139
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/01/26 3.53 The Babel package
+Package: babel 2021/06/28 3.61 The Babel package
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/01/26 3.53 Babel common definitions
-\babel@savecnt=\count188
+File: babel.def 2021/06/28 3.61 Babel common definitions
+\babel@savecnt=\count191
 \U@D=\dimen140
-\l@babelnohyphens=\language79
+\l@unhyphenated=\language79
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count189
+\bbl@dirlevel=\count192
 
 *************************************
 * Local config file bblopts.cfg used
@@ -58,16 +58,16 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
 df
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language73) on input line 108.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
 )) (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -78,17 +78,17 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
-\uc@secondtry=\count190
-\uc@combtoks=\toks17
-\uc@combtoksb=\toks18
-\uc@temptokena=\toks19
+\uc@secondtry=\count193
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
+\KV@toks@=\toks21
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -96,9 +96,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count191
-\Gm@cntv=\count192
-\c@Gm@tempcnt=\count193
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -107,30 +107,30 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks21
+\Gm@dimlist=\toks22
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \col@sep=\dimen149
-\ar@mcellbox=\box47
+\ar@mcellbox=\box50
 \extrarowheight=\dimen150
-\NC@list=\toks22
+\NC@list=\toks23
 \extratabsurround=\skip49
 \backup@length=\skip50
-\ar@cellbox=\box48
+\ar@cellbox=\box51
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen151
-\enit@toks=\toks23
-\enit@inbox=\box49
-\enit@count@id=\count194
-\enitdp@description=\count195
+\enit@toks=\toks24
+\enit@inbox=\box52
+\enit@count@id=\count197
+\enitdp@description=\count198
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -173,14 +173,14 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen152
-\Hy@linkcounter=\count196
-\Hy@pagecounter=\count197
+\Hy@linkcounter=\count199
+\Hy@pagecounter=\count266
  (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
 atches.def
-File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -189,9 +189,9 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count198
+\Hy@SavedSpaceFactor=\count267
  (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4192.
 Package hyperref Info: Link nesting OFF on input line 4197.
@@ -200,7 +200,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count199
+\c@Hy@tempcnt=\count268
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
@@ -217,39 +217,38 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count266
+\Fld@menulength=\count269
 \Field@Width=\dimen154
 \Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count267
-\c@Item=\count268
-\c@Hfootnote=\count269
+\Hy@abspage=\count270
+\c@Item=\count271
+\c@Hfootnote=\count272
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count270
-\c@bookmark@seq@number=\count271
+\Fld@listcount=\count273
+\c@bookmark@seq@number=\count274
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -266,44 +265,43 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/xltabular\xltabular.sty
 Package: xltabular 2020/11/04 v0.2e `xltabular' package (hv,RN)
-
-(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\tabularx.st
-y
+(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen156
 \TX@old@table=\dimen157
 \TX@old@col=\dimen158
 \TX@target=\dimen159
 \TX@delta=\dimen160
-\TX@cols=\count272
-\TX@ftn=\toks24
-) (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex.sty
+\TX@cols=\count275
+\TX@ftn=\toks25
+)
+(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex.sty
 Package: ltablex 2014/08/13 v1.1 Modified tabularx
 
-(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\longtable.s
-ty
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
 \LTleft=\skip53
 \LTright=\skip54
 \LTpre=\skip55
 \LTpost=\skip56
-\LTchunksize=\count273
+\LTchunksize=\count276
 \LTcapwidth=\dimen161
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count274
-\LT@rows=\count275
-\c@LT@tables=\count276
-\c@LT@chunks=\count277
-\LT@p@ftn=\toks25
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count277
+\LT@rows=\count278
+\c@LT@tables=\count279
+\c@LT@chunks=\count280
+\LT@p@ftn=\toks26
 )))
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -312,7 +310,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
@@ -341,9 +339,9 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box54
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box58
 ) (My_Resume.aux)
 \openout1 = `My_Resume.aux'.
 
@@ -414,7 +412,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count279
+\c@section@level=\count282
 )
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
@@ -427,28 +425,31 @@ LaTeX Info: Redefining \nameref on input line 4.
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count283
 \scratchdimen=\dimen164
-\scratchbox=\box55
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count283
+\scratchbox=\box59
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count286
 \MPscratchDim=\dimen165
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks28
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 9
 .
-
-(C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+ (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd)
@@ -527,13 +528,13 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10771 strings out of 479334
- 163119 string characters out of 2857084
- 513542 words of memory out of 3000000
- 28030 multiletter control sequences out of 15000+200000
- 417787 words of font info for 65 fonts, out of 3000000 for 9000
+ 10937 strings out of 478847
+ 167041 string characters out of 2848386
+ 534630 words of memory out of 3000000
+ 28680 multiletter control sequences out of 15000+600000
+ 417787 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,13n,88p,614b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 75i,13n,80p,609b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:
 /Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Use
 rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Use
@@ -542,9 +543,9 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1407819 bytes).
+Output written on My_Resume.pdf (2 pages, 1411790 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
