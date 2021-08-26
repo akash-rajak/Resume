@@ -6,6 +6,7 @@
 % new command defined ---------------------------------------------
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 \newcommand\tob[1][0.2cm]{\hspace*{#1}}
+\newcommand\tub[1][0.3cm]{\hspace*{#1}}
 \fontfamily{ppl}\selectfont
 % -----------------------------------------------------------------
 
@@ -18,21 +19,21 @@
 \begin{tabularx}{\linewidth}{@{}m{0.8\textwidth} m{0.2\textwidth}@{}}
 {
 	% \includegraphics[width=0.6cm]{images/image3.png}
-	\Large\textcolor{red}{ \textbf{Akash Ramanand Rajak}} \newline
+	\Large\textcolor{blue}{ \textbf{Akash Ramanand Rajak}} \newline
     \small{
         \clink{
             \href{mailto:aakashrajak02@gmail.com}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/mail.png}       \underline{aakashrajak02@gmail.com}}} \tob\textbf{|}\tob
             \href{mailto:435_bt19@iiitkalyani.ac.in}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/mail.png}       \underline{435\_ bt19@iiitkalyani.ac.in}}}
             \newline
-            {\includegraphics[width=0.4cm]{images/phone.png} \fontdimen2\font=0.75ex \textcolor{violet}{+91 8980153352}}  \tob\textbf{|}\tob
+            {\includegraphics[width=0.4cm]{images/phone.png} \fontdimen2\font=0.75ex \textcolor{black}{+91 8980153352}}  \tob\textbf{|}\tob
             % \textbf{·} 
             %\href{https://johnmyweb.com}{johnmyweb.com}
         } % \newline
         \includegraphics[width=0.4cm]{images/calender.png}
-        \textcolor{violet}{D.O.B.\tob :\tob 22\tob Nov,\tob 1999}
+        \textcolor{black}{D.O.B.\tob :\tob 22\tob Nov,\tob 1999}
         \newline
         \includegraphics[width=0.4cm]{images/location.png}
-        \textcolor{violet}{Gujarat,\tob India\tob  -\tob  391410}
+        \textcolor{black}{Gujarat,\tob India\tob  -\tob  391410}
     }
 }
 % ------------------------------------------------------------------
@@ -57,35 +58,41 @@
 	% -------- EDUCATION PART ----------------------------------
 	\csection{\textcolor{blue}{EDUCATION}}{\small
         \begin{itemize}
-            % item 1 %
-            \item \frcontent{\textcolor{violet}{SSC}}{Gujarat Refinery English Medium School (GREMS)}{Percentile\tob :\tob 98.95\tab Grade\tob :\tob A2}{2014 - 2016}
-            \item \frcontent{\textcolor{violet}{HSC - Maths, Physics, Chemistry}}{Baroda High School, Alkapuri}{Percentile\tob :\tob 92.06\tab Grade\tob :\tob B1}{2016 - 2018}
-            \item \frcontent{\textcolor{violet}{B - Tech Computer Science}}{Indian Institute of Information Technology, Kalyani}{CGPA Till Sem - 4\tob :\tob 8.88}{2019 - 2023}
-        \end{itemize}
-    }
-    
-	% -------- SKILLS PART ----------------------------------
-	\csection{\textcolor{blue}{SKILLS}}{\small
-        \begin{itemize}
-        	\item \textbf{\textcolor{violet}{Programming Languages \tob\&\tob Technologies}} \newline
-            {\footnotesize - \tob C, C++, Java, Python, HTML-CSS, Scilab, MIPS \newline - \tob Dev C++, Pycharm, Jupiter Notebook, Eclipse,  Android Studio, Scilab, Qtspim, Git \& Github}{}{}
-            \item \textbf{\textcolor{violet}{Patterns \tob\&\tob Practices}} \newline
-            {\footnotesize Problem Solving, ML/NLP Model Creation}{}{}
+        \item \frcontent{\textcolor{black}{B - Tech Computer Science  \tab \tob 2019 - 2023}}{}{}{Indian Institute of Information Technology, Kalyani\newline CGPA Till Sem - 4\tob :\tob 8.88}
             
-            \item \textbf{\textcolor{violet}{Languages}} \newline
-            {\footnotesize English,  Hindi,  Gujarati}
+            \item \frcontent{\textcolor{black}{HSC - Maths,Physics,Chemistry \tob 2016 - 2018}}{}{}{Baroda High School, Alkapuri \tab\tab\tob\tub 92.06 \%ile}
+            
+            \item \frcontent{\textcolor{black}{SSC \tab\tab\tab\tab\tab\tob\tub 2015 - 2016}}{}{}{Gujarat Refinery English Medium School\tub\tub\tob 98.95 \%ile}
         \end{itemize}
-    }    
+    }   
     
     % -------- EXPERIENCE PART ----------------------------------
    	\csection{\textcolor{blue}{EXPERIENCE}}{\small
         \begin{itemize}
-            \item \frcontent{\textcolor{violet}{Software Developer - Intern}}{Exposys Data Labs}{-\tob Project\tob :\tob Built a Secure Messaging application with high security and less time.}{\tob  JUL 2021 - Aug 2021\tob (1 mos)}
+            \item \frcontent{\textcolor{black}{Software Developer - Intern}}{Exposys Data Labs}{-\tob Project\tob :\tob Built a Secure Messaging application with high security and less time.}{\tob  JUL 2021 - Aug 2021\tob (1 mos)}
         \end{itemize}
         \begin{itemize}
-            \item \frcontent{\textcolor{violet}{LGM SOC'21 - Open Source Contributor}}{Lets Grow More}{}{\tob  JUN 2021 - AUG 2021\tob (3 mos)}
+            \item \frcontent{\textcolor{black}{LGM SOC'21 - Open Source Contributor}}{Lets Grow More}{}{\tob  JUN 2021 - AUG 2021\tob (3 mos)}
         \end{itemize}
     }
+    %\csection{\textcolor{blue}{}}{\small
+        \small \begin{itemize}
+            \item \frcontent{\textcolor{black}{Winter Of Code - Student Member}}{Developer Student Club - IIIT Kalyani}{-\tob Project\tob :\tob Tabular ML (Built an end-to-end ML system for tabular datasets).\newline -\tob  Participated in Android Study Jam.}{\tob  JAN 2021 - MAR 2021\tob (3 mos)}
+        \end{itemize}
+    %}
+    
+    % -------- SKILLS PART ----------------------------------
+	\csection{\textcolor{blue}{SKILLS}}{\small
+        \begin{itemize}
+        	\item \textbf{\textcolor{black}{Programming Languages \tob\&\tob Technologies}} \newline
+            {\footnotesize - \tob C, C++, Java, Python, HTML-CSS, Scilab, MIPS \newline - \tob Dev C++, Pycharm, Jupiter Notebook, Eclipse,  Android Studio, Scilab, Qtspim, Git \& Github}{}{}
+            \item \textbf{\textcolor{black}{Patterns \tob\&\tob Practices}} \newline
+            {\footnotesize Problem Solving, ML/NLP Model Creation}{}{}
+            
+            \item \textbf{\textcolor{black}{Languages}} \newline
+            {\footnotesize English,  Hindi,  Gujarati}
+        \end{itemize}
+    } 
     
 } 
 % end left side %
@@ -93,103 +100,27 @@
 % right side %
 {
 	% -------- EXPERIENCE PART Continued ------------------------
-   	%\csection{\textcolor{blue}{}}{\small
-        \small \begin{itemize}
-            \item \frcontent{\textcolor{violet}{Winter Of Code - Student Member}}{Developer Student Club - IIIT Kalyani}{-\tob Project\tob :\tob Tabular ML (Built an end-to-end ML system for tabular datasets).\newline -\tob  Participated in Android Study Jam.}{\tob  JAN 2021 - MAR 2021\tob (3 mos)}
-        \end{itemize}
-    %}
+
 
     % -------- PROJECTS PART ----------------------------------
     \csection{\textcolor{blue}{PROJECTS}}{\small
         \begin{itemize}
             % PROJECT - 1 ----------------
-            \item \frcontent{\textcolor{violet}{CaveMan\tob -\tob The\tob Saviour} \clink{\href{https://github.com/akash435/CaveMan-The_Saviour}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob A 2D physics - based flash game app created using ANDROID STUDIO and with simple graphics.}{}{+\tob Features used - Java, Android, Sqlite database}
+            \item \frcontent{\textcolor{black}{CaveMan\tob -\tob The\tob Saviour} \clink{\href{https://github.com/akash435/CaveMan-The_Saviour}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob A 2D physics - based flash game app created using ANDROID STUDIO and with simple graphics.}{}{+\tob Features used - Java, Android, Sqlite database}
             
             % PROJECT - 2 ----------------
-            \item \frcontent{\textcolor{violet}{Organ-Donors-Prediction} \clink{\href{https://github.com/akash435/Organ-Donors-Prediction}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a ML MODEL, to analyze the data of donors and predict from that. Analyzed with models like Logistic, Linear, Ridge, Lasso Regression, Decision Tree, Random Forest, K Neighbors, XGBoost Classifier.}{}{+\tob Features used - Python(Numpy, Pandas, Seaborn, matplotlib, sklearn), Regression, Classifier, Jupiter Notebook}
+            \item \frcontent{\textcolor{black}{Organ-Donors-Prediction} \clink{\href{https://github.com/akash435/Organ-Donors-Prediction}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a ML MODEL, to analyze the data of donors and predict from that. Analyzed with models like Logistic, Linear, Ridge, Lasso Regression, Decision Tree, Random Forest, K Neighbors, XGBoost Classifier.}{}{+\tob Features used - Python(Numpy, Pandas, Seaborn, matplotlib, sklearn), Regression, Classifier, Jupiter Notebook}
             % PROJECT - 3 ----------------
             %\item \frcontent{\textcolor{violet}{Crop-Fertilizers-Analysis-Prediction} \clink{\href{https://github.com/akash435/Crop-Fertilizers-Analysis-and-Prediction}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a ML model, to analyze the data of crop fertilizers and predict the fertilizers for crops. Analyzed with models like Logistic, Linear, Ridge, Lasso Regression, Decision Tree, Random Forest, K Neighbors.}{}{+\tob Features used - Python(Numpy, Pandas, Seaborn, matplotlib, sklearn), Regression, Classifier, Jupiter Notebook}
             
             % PROJECT - 3 ----------------
-            \item \frcontent{\textcolor{violet}{Video Stitching} \clink{\href{https://github.com/akash435/Video-Stitching}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a Video Stitching application with ROW and COLUMN STITCHING.}{}{+\tob Features used - Python (tkinter, opencv, moviepy, PIL)}
+            \item \frcontent{\textcolor{black}{Video Stitching} \clink{\href{https://github.com/akash435/Video-Stitching}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a Video Stitching application with ROW and COLUMN STITCHING.}{}{+\tob Features used - Python (tkinter, opencv, moviepy, PIL)}
             
             % PROJECT - 4 ----------------
-            \item \frcontent{\textcolor{violet}{Dictionary} \clink{\href{https://github.com/akash435/Dictionary}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built an English dictionary with AUTO-COMPLETE, TEXT - SPEECH, SPEECH - TEXT, VIRTUAL KEYPAD feature.}{}{+\tob Features used - Python (tkinter, pyttsx3, speech recognition, pyaudio)}
+            \item \frcontent{\textcolor{black}{Dictionary} \clink{\href{https://github.com/akash435/Dictionary}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built an English dictionary with AUTO-COMPLETE, TEXT - SPEECH, SPEECH - TEXT, VIRTUAL KEYPAD feature.}{}{+\tob Features used - Python (tkinter, pyttsx3, speech recognition, pyaudio)}
             
             % PROJECT - 5 ----------------
-            \item \frcontent{\textcolor{violet}{Simple Python IDE} \clink{\href{https://github.com/akash435/Simple-Python-IDE}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a  Simple Python IDE using tkinter GUI which runs code, find errors, change themes.}{}{+\tob Features used - Python (Tkinter, StringIO)}
-        \end{itemize}
-    }
-    
-}
-\end{tabularx}
-\end{center}
-% ********************************************************************
-
-% *************** PAGE - 2 ******************************************
-
-\begin{center}
-\begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
-% left side %
-{
-    % -------- COURSES PART ----------------------------------
-    \csection{\textcolor{blue}{COURSES}}{\small
-        \begin{itemize}
-            \item \textbf{\textcolor{violet}{Mathematics}} \newline
-            {\footnotesize Linear Algebra, Probability and Statistics, Dicrete Mathematics, Calculus and Differential Equation, Numerical Analysis and Computing}{}{}
-            \item \textbf{\textcolor{violet}{Computer Science}} \newline
-            {\footnotesize Programming with C, Data Structures and Algorithm, Algorithm Analysis and Design, Computer Architecture, Formal Language and Automata Theory, Data Science (Python), Operating System, Object Oriented Programming (JAVA), Scilab, Qtspim}
-            \item \textbf{\textcolor{violet}{Electronics}} \newline
-            {\footnotesize Digital Electronics, Analog Electronics, Data Communication, Signals and Systems}
-            \item \textbf{\textcolor{violet}{Others}} \newline
-            {\footnotesize Physics, Ethics, Economics, Humanity (Psychology)}
-        \end{itemize}
-    }
-    
-    % ------------ Interest and Hobbies section ---------------
-    \csection{\textcolor{blue}{Interests \& Hobbies}}{\small
-        \begin{itemize}
-            \item {\footnotesize Competitive Programming\tab \textbf{•} \tob Open Sourcing}
-        \end{itemize}
-    }
-    % -------- LINKS PART ----------------------------------
-	\csection{\textcolor{blue}{LINKS}}{\small
-        \begin{itemize}
-            \item 
-            \clink{
-        	\href{https://github.com/akash435}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/github.png}\tob   \underline{Github}}}
-        	\textbf{} 
-        	\href{https://www.linkedin.com/in/akash-rajak-akash435/}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/linkedin.png}\tob \underline{Linkedin}}}
-        	\textbf{}
-        	\href{https://www.hackerrank.com/aakashrajak02?hr_r=1}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/hackerrank.png}\tob \underline{HackerRank}}}
-        }
-        \end{itemize}
-        
-        \begin{itemize}
-            \item 
-            \clink{
-        	\href{https://www.codechef.com/users/akash435}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/codechef.png}\tob \underline{CodeChef}}}
-        	\textbf{}
-        	\href{https://codeforces.com/profile/aakashrajak02}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/codeforces.png}\tob \underline{Codeforces}}}
-        	\textbf{}
-        	\href{https://leetcode.com/akash435/}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/leetcode.png}\tob \underline{LeetCode}}}
-            %\newline
-        }
-        \end{itemize}
-    }
-    
-} 
-% end left side %
-& 
-% right side %
-{
-	% -------- EVENTS & PARTICIPATIONS PART ----------------------------------
-    \csection{\textcolor{blue}{Events \& Participations}}{\small
-        \begin{itemize}
-            \item {\footnotesize Google Coding Competition - HashCode 2021, CodeJam 2021, KickStart 2021.}
-            \item {\footnotesize Devfolio Hackathon HackData 5.0, with project BSM.}
-            \item {\footnotesize Code Kaze'21, Code Frenzy - Online Coding Competion by Coding Ninjas.}
-            \item {\footnotesize Codacharya 2021 - Coding Competition organized by IIIT Kalyani.}
+            \item \frcontent{\textcolor{black}{Simple Python IDE} \clink{\href{https://github.com/akash435/Simple-Python-IDE}{\tob \textcolor{cyan}{\underline{[Github\tob Link]}}}}}{-\tob Built a  Simple Python IDE using tkinter GUI which runs code, find errors, change themes.}{}{+\tob Features used - Python (Tkinter, StringIO)}
         \end{itemize}
     }
     
@@ -217,6 +148,79 @@
         	\textbf{|} 
         	\tob
         	\href{https://drive.google.com/file/d/1LdR-E4uXdbXYD3yLiHGOtKpeYbjZcNo6/view}{\textcolor{cyan}{\underline{Winter Of Code}}}
+        }
+        \end{itemize}
+    }
+    
+}
+\end{tabularx}
+\end{center}
+% ********************************************************************
+
+% *************** PAGE - 2 ******************************************
+
+\begin{center}
+\begin{tabularx}{\linewidth}{@{}*{2}{X}@{}}
+% left side %
+{
+    % -------- COURSES PART ----------------------------------
+    \csection{\textcolor{blue}{COURSES}}{\small
+        \begin{itemize}
+            \item \textbf{\textcolor{black}{Mathematics}} \newline
+            {\footnotesize Linear Algebra, Probability and Statistics, Dicrete Mathematics, Calculus and Differential Equation, Numerical Analysis and Computing}{}{}
+            \item \textbf{\textcolor{black}{Computer Science}} \newline
+            {\footnotesize Programming with C, Data Structures and Algorithm, Algorithm Analysis and Design, Computer Architecture, Formal Language and Automata Theory, Data Science (Python), Operating System, Object Oriented Programming (JAVA), Scilab, Qtspim}
+            \item \textbf{\textcolor{black}{Electronics}} \newline
+            {\footnotesize Digital Electronics, Analog Electronics, Data Communication, Signals and Systems}
+            \item \textbf{\textcolor{black}{Others}} \newline
+            {\footnotesize Physics, Ethics, Economics, Humanity (Psychology)}
+        \end{itemize}
+    }
+    
+    % ------------ Interest and Hobbies section ---------------
+    \csection{\textcolor{blue}{Interests \& Hobbies}}{\small
+        \begin{itemize}
+            \item {\footnotesize Competitive Programming\tab \textbf{•} \tob Open Sourcing}
+        \end{itemize}
+    }
+    
+} 
+% end left side %
+& 
+% right side %
+{
+	% -------- EVENTS & PARTICIPATIONS PART ----------------------------------
+    \csection{\textcolor{blue}{Events \& Participations}}{\small
+        \begin{itemize}
+            \item {\footnotesize Google Coding Competition - HashCode 2021, CodeJam 2021, KickStart 2021.}
+            \item {\footnotesize Devfolio Hackathon HackData 5.0, with project BSM.}
+            \item {\footnotesize Code Kaze'21, Code Frenzy - Online Coding Competion by Coding Ninjas.}
+            \item {\footnotesize Codacharya 2021 - Coding Competition organized by IIIT Kalyani.}
+        \end{itemize}
+    }
+   
+    % -------- LINKS PART ----------------------------------
+	\csection{\textcolor{blue}{LINKS}}{\small
+        \begin{itemize}
+            \item 
+            \clink{
+        	\href{https://github.com/akash435}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/github.png}\tob   \underline{Github}}}
+        	\textbf{} 
+        	\href{https://www.linkedin.com/in/akash-rajak-akash435/}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/linkedin.png}\tob \underline{Linkedin}}}
+        	\textbf{}
+        	\href{https://www.hackerrank.com/aakashrajak02?hr_r=1}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/hackerrank.png}\tob \underline{HackerRank}}}
+        }
+        \end{itemize}
+        
+        \begin{itemize}
+            \item 
+            \clink{
+        	\href{https://www.codechef.com/users/akash435}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/codechef.png}\tob \underline{CodeChef}}}
+        	\textbf{}
+        	\href{https://codeforces.com/profile/aakashrajak02}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/codeforces.png}\tob \underline{Codeforces}}}
+        	\textbf{}
+        	\href{https://leetcode.com/akash435/}{\textcolor{cyan}{\includegraphics[width=0.4cm]{images/leetcode.png}\tob \underline{LeetCode}}}
+            %\newline
         }
         \end{itemize}
     }
