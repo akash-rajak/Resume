@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  30 AUG 2021 20:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  31 AUG 2021 01:34
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -455,62 +455,66 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd)
 File: images/mail.png Graphic file (type png)
 <use images/mail.png>
-Package pdftex.def Info: images/mail.png  used on input line 49.
+Package pdftex.def Info: images/mail.png  used on input line 55.
 (pdftex.def)             Requested size: 11.38092pt x 8.41673pt.
 File: images/mail.png Graphic file (type png)
 <use images/mail.png>
-Package pdftex.def Info: images/mail.png  used on input line 49.
+Package pdftex.def Info: images/mail.png  used on input line 55.
 (pdftex.def)             Requested size: 11.38092pt x 8.41673pt.
 File: images/phone.png Graphic file (type png)
 <use images/phone.png>
-Package pdftex.def Info: images/phone.png  used on input line 49.
+Package pdftex.def Info: images/phone.png  used on input line 55.
 (pdftex.def)             Requested size: 11.38092pt x 11.37842pt.
 File: images/calender.png Graphic file (type png)
 <use images/calender.png>
-Package pdftex.def Info: images/calender.png  used on input line 49.
+Package pdftex.def Info: images/calender.png  used on input line 55.
 (pdftex.def)             Requested size: 11.38092pt x 11.379pt.
 File: images/location.png Graphic file (type png)
 <use images/location.png>
-Package pdftex.def Info: images/location.png  used on input line 49.
+Package pdftex.def Info: images/location.png  used on input line 55.
 (pdftex.def)             Requested size: 11.38092pt x 12.88269pt.
 File: images/image3.png Graphic file (type png)
 <use images/image3.png>
-Package pdftex.def Info: images/image3.png  used on input line 49.
+Package pdftex.def Info: images/image3.png  used on input line 55.
 (pdftex.def)             Requested size: 85.35826pt x 85.35542pt.
 
-Overfull \hbox (11.99998pt too wide) in alignment at lines 49--49
+Overfull \hbox (11.99998pt too wide) in alignment at lines 55--55
 [][] 
  []
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
+Underfull \hbox (badness 1189) in paragraph at lines 172--172
+\OT1/ppl/m/n/10 -| Project| :| Built an al-o-gorithm to se-cure mes-sages
+ []
+
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def)
-Underfull \hbox (badness 2591) in paragraph at lines 238--238
+Underfull \hbox (badness 2591) in paragraph at lines 244--244
 \OT1/ppl/m/n/10 Linear Al-ge-bra, Prob-a-bil-ity and Statis-tics, Di-crete
  []
 
 File: images/github.png Graphic file (type png)
 <use images/github.png>
-Package pdftex.def Info: images/github.png  used on input line 238.
+Package pdftex.def Info: images/github.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 11.37819pt.
 File: images/linkedin.png Graphic file (type png)
 <use images/linkedin.png>
-Package pdftex.def Info: images/linkedin.png  used on input line 238.
+Package pdftex.def Info: images/linkedin.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 11.38081pt.
 File: images/hackerrank.png Graphic file (type png)
 <use images/hackerrank.png>
-Package pdftex.def Info: images/hackerrank.png  used on input line 238.
+Package pdftex.def Info: images/hackerrank.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 11.46573pt.
 File: images/codechef.png Graphic file (type png)
 <use images/codechef.png>
-Package pdftex.def Info: images/codechef.png  used on input line 238.
+Package pdftex.def Info: images/codechef.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 14.31868pt.
 File: images/codeforces.png Graphic file (type png)
 <use images/codeforces.png>
-Package pdftex.def Info: images/codeforces.png  used on input line 238.
+Package pdftex.def Info: images/codeforces.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 7.77713pt.
 File: images/leetcode.png Graphic file (type png)
 <use images/leetcode.png>
-Package pdftex.def Info: images/leetcode.png  used on input line 238.
+Package pdftex.def Info: images/leetcode.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 11.61159pt.
 [1
 
@@ -520,7 +524,7 @@ ges/image3.png>]pdfTeX warning (ext4): destination with the same identifier (na
 me{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.243 \end{document}
+l.249 \end{document}
                     \ [2 <./images/github.png> <./images/linkedin.png> <./image
 s/hackerrank.png> <./images/codechef.png> <./images/codeforces.png> <./images/l
 eetcode.png>] (My_Resume.aux)
@@ -528,13 +532,13 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11076 strings out of 478870
- 171743 string characters out of 2848837
- 536708 words of memory out of 3000000
- 28794 multiletter control sequences out of 15000+600000
+ 11080 strings out of 478870
+ 171810 string characters out of 2848837
+ 539725 words of memory out of 3000000
+ 28798 multiletter control sequences out of 15000+600000
  417787 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,80p,579b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,13n,80p,587b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:
 /Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Use
 rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Use
@@ -543,7 +547,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1421337 bytes).
+Output written on My_Resume.pdf (2 pages, 1421420 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
