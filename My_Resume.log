@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  2 SEP 2021 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  8 SEP 2021 17:55
 entering extended mode
 **./My_Resume.tex
 (My_Resume.tex
@@ -484,10 +484,6 @@ Overfull \hbox (11.99998pt too wide) in alignment at lines 55--55
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def)
-Underfull \hbox (badness 2591) in paragraph at lines 244--244
-\OT1/ppl/m/n/10 Linear Al-ge-bra, Prob-a-bil-ity and Statis-tics, Di-crete
- []
-
 File: images/github.png Graphic file (type png)
 <use images/github.png>
 Package pdftex.def Info: images/github.png  used on input line 244.
@@ -512,6 +508,7 @@ File: images/leetcode.png Graphic file (type png)
 <use images/leetcode.png>
 Package pdftex.def Info: images/leetcode.png  used on input line 244.
 (pdftex.def)             Requested size: 11.38092pt x 11.61159pt.
+
 [1
 
 {C:/Users/aakas/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images/mail.p
@@ -530,7 +527,7 @@ Package rerunfilecheck Info: File `My_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11080 strings out of 478870
  171810 string characters out of 2848837
- 539721 words of memory out of 3000000
+ 539733 words of memory out of 3000000
  28798 multiletter control sequences out of 15000+600000
  417787 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -543,7 +540,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on My_Resume.pdf (2 pages, 1421399 bytes).
+Output written on My_Resume.pdf (2 pages, 1421483 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
