@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  4 FEB 2022 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  16 FEB 2022 15:51
 entering extended mode
 **./Akash_Rajak.tex
 (Akash_Rajak.tex
@@ -483,8 +483,18 @@ Overfull \hbox (1.49298pt too wide) in alignment at lines 55--55
  []
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
-Underfull \hbox (badness 1635) in paragraph at lines 202--202
-\OT1/ppl/m/n/10 - | Dev C++, Py-charm, Jupiter Note-book, Eclipse,
+Underfull \hbox (badness 2980) in paragraph at lines 202--202
+\OT1/ppl/m/n/10 - Dev C++, Py-charm, Jupiter Note-book, Eclipse,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+\OT1/ppl/m/n/10 MySQL,| An-droid Studio,| Scilab,| Qt-spim, Git &
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 202--202
+\OT1/ppl/m/n/10 Problem Solving,| OS,| DBMS,| ML/DL/NLP Model
  []
 
 
@@ -534,7 +544,7 @@ Package rerunfilecheck Info: File `Akash_Rajak.out' has not changed.
 Here is how much of TeX's memory you used:
  10823 strings out of 478870
  168937 string characters out of 2848837
- 543527 words of memory out of 3000000
+ 543755 words of memory out of 3000000
  28547 multiletter control sequences out of 15000+600000
  416257 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -547,7 +557,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak.pdf (2 pages, 1422423 bytes).
+Output written on Akash_Rajak.pdf (2 pages, 1422460 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
