@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  19 MAR 2022 11:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  22 MAR 2022 19:52
 entering extended mode
 **./Akash_Rajak.tex
 (Akash_Rajak.tex
@@ -493,11 +493,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--202
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 202--202
-\OT1/ppl/m/n/10 Problem Solving,| OS,| DBMS,| ML/DL/NLP Model
- []
-
-
 Underfull \hbox (badness 3735) in paragraph at lines 286--286
 []\OT1/ppl/m/n/10 Participated & Con-tributed to Open Source pro-
  []
@@ -544,7 +539,7 @@ Package rerunfilecheck Info: File `Akash_Rajak.out' has not changed.
 Here is how much of TeX's memory you used:
  10823 strings out of 478870
  168937 string characters out of 2848837
- 544069 words of memory out of 3000000
+ 545169 words of memory out of 3000000
  28547 multiletter control sequences out of 15000+600000
  416257 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -557,7 +552,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak.pdf (2 pages, 1422508 bytes).
+Output written on Akash_Rajak.pdf (2 pages, 1422535 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
