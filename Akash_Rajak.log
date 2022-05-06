@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  22 MAR 2022 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  6 MAY 2022 23:44
 entering extended mode
 **./Akash_Rajak.tex
 (Akash_Rajak.tex
@@ -483,43 +483,53 @@ Overfull \hbox (1.49298pt too wide) in alignment at lines 55--55
  []
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
-Underfull \hbox (badness 2980) in paragraph at lines 202--202
+Underfull \hbox (badness 2980) in paragraph at lines 210--210
 \OT1/ppl/m/n/10 - Dev C++, Py-charm, Jupiter Note-book, Eclipse,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \OT1/ppl/m/n/10 MySQL,| An-droid Studio,| Scilab,| Qt-spim, Git &
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 286--286
+Underfull \hbox (badness 4872) in paragraph at lines 210--210
+[][]\OT1/ppl/b/n/12 Student & Course Man-age-ment Sys-tem[]
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 210--210
+\OT1/ppl/m/n/10 -| A Sim-ple Real-Time fac-ulty and stu-dent based
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 294--294
 []\OT1/ppl/m/n/10 Participated & Con-tributed to Open Source pro-
  []
 
 File: images/github.png Graphic file (type png)
 <use images/github.png>
-Package pdftex.def Info: images/github.png  used on input line 286.
+Package pdftex.def Info: images/github.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 11.37819pt.
 File: images/linkedin.png Graphic file (type png)
 <use images/linkedin.png>
-Package pdftex.def Info: images/linkedin.png  used on input line 286.
+Package pdftex.def Info: images/linkedin.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 11.38081pt.
 File: images/hackerrank.png Graphic file (type png)
 <use images/hackerrank.png>
-Package pdftex.def Info: images/hackerrank.png  used on input line 286.
+Package pdftex.def Info: images/hackerrank.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 11.46573pt.
 File: images/codechef.png Graphic file (type png)
 <use images/codechef.png>
-Package pdftex.def Info: images/codechef.png  used on input line 286.
+Package pdftex.def Info: images/codechef.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 14.31868pt.
 File: images/codeforces.png Graphic file (type png)
 <use images/codeforces.png>
-Package pdftex.def Info: images/codeforces.png  used on input line 286.
+Package pdftex.def Info: images/codeforces.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 7.77713pt.
 File: images/leetcode.png Graphic file (type png)
 <use images/leetcode.png>
-Package pdftex.def Info: images/leetcode.png  used on input line 286.
+Package pdftex.def Info: images/leetcode.png  used on input line 294.
 (pdftex.def)             Requested size: 11.38092pt x 11.61159pt.
 [1
 
@@ -529,7 +539,7 @@ ges/image3.png>]pdfTeX warning (ext4): destination with the same identifier (na
 me{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.291 \end{document}
+l.299 \end{document}
                     \ [2 <./images/github.png> <./images/linkedin.png> <./image
 s/hackerrank.png> <./images/codechef.png> <./images/codeforces.png> <./images/l
 eetcode.png>] (Akash_Rajak.aux)
@@ -539,7 +549,7 @@ Package rerunfilecheck Info: File `Akash_Rajak.out' has not changed.
 Here is how much of TeX's memory you used:
  10823 strings out of 478870
  168937 string characters out of 2848837
- 545169 words of memory out of 3000000
+ 544059 words of memory out of 3000000
  28547 multiletter control sequences out of 15000+600000
  416257 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -552,9 +562,9 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak.pdf (2 pages, 1422535 bytes).
+Output written on Akash_Rajak.pdf (2 pages, 1422691 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 130 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
