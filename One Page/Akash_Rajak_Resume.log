@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  30 AUG 2022 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  5 SEP 2022 19:58
 entering extended mode
-**./Akash_Rajak.tex
-(Akash_Rajak.tex
+**./Akash_Rajak_Resume.tex
+(Akash_Rajak_Resume.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-07-12> (resume.cls
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extreport.cls
@@ -342,8 +342,8 @@ tex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box58
-) (Akash_Rajak.aux)
-\openout1 = `Akash_Rajak.aux'.
+) (Akash_Rajak_Resume.aux)
+\openout1 = `Akash_Rajak_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -417,9 +417,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
- (Akash_Rajak.out) (Akash_Rajak.out)
+ (Akash_Rajak_Resume.out) (Akash_Rajak_Resume.out)
 \@outlinefile=\write3
-\openout3 = `Akash_Rajak.out'.
+\openout3 = `Akash_Rajak_Resume.out'.
 
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
@@ -523,18 +523,19 @@ Package pdftex.def Info: images/leetcode.png  used on input line 268.
 {C:/Users/aakas/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images/mail.p
 ng> <./images/phone.png> <./images/location.png> <./images/image3.png> <./image
 s/github.png> <./images/linkedin.png> <./images/hackerrank.png> <./images/codec
-hef.png> <./images/codeforces.png> <./images/leetcode.png>] (Akash_Rajak.aux)
-Package rerunfilecheck Info: File `Akash_Rajak.out' has not changed.
+hef.png> <./images/codeforces.png> <./images/leetcode.png>]
+(Akash_Rajak_Resume.aux)
+Package rerunfilecheck Info: File `Akash_Rajak_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  11070 strings out of 478870
- 171784 string characters out of 2848837
- 539351 words of memory out of 3000000
+ 171910 string characters out of 2848837
+ 539365 words of memory out of 3000000
  28791 multiletter control sequences out of 15000+600000
  416811 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,80p,592b,697s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,13n,80p,599b,697s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:
 /Users/aakas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Use
 rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Use
@@ -543,7 +544,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak.pdf (1 page, 1415466 bytes).
+Output written on Akash_Rajak_Resume.pdf (1 page, 1415466 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
