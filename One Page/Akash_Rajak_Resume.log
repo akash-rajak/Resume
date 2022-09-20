@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  5 SEP 2022 19:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  20 SEP 2022 17:07
 entering extended mode
 **./Akash_Rajak_Resume.tex
 (Akash_Rajak_Resume.tex
@@ -480,11 +480,6 @@ Overfull \hbox (1.49298pt too wide) in alignment at lines 55--55
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def)
-Underfull \hbox (badness 2980) in paragraph at lines 268--268
-\OT1/ppl/m/n/10 - Dev C++, Py-charm, Jupiter Note-book, Eclipse,
- []
-
-
 Underfull \hbox (badness 4872) in paragraph at lines 268--268
 [][]\OT1/ppl/b/n/12 Student & Course Man-age-ment Sys-tem[]
  []
@@ -531,7 +526,7 @@ Package rerunfilecheck Info: File `Akash_Rajak_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11070 strings out of 478870
  171910 string characters out of 2848837
- 539365 words of memory out of 3000000
+ 539397 words of memory out of 3000000
  28791 multiletter control sequences out of 15000+600000
  416811 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -544,7 +539,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak_Resume.pdf (1 page, 1415466 bytes).
+Output written on Akash_Rajak_Resume.pdf (1 page, 1415639 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
