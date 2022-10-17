@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  20 SEP 2022 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.8)  17 OCT 2022 14:52
 entering extended mode
 **./Akash_Rajak_Resume.tex
 (Akash_Rajak_Resume.tex
@@ -480,38 +480,38 @@ Overfull \hbox (1.49298pt too wide) in alignment at lines 55--55
 
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd)
 (C:\Users\aakas\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def)
-Underfull \hbox (badness 4872) in paragraph at lines 268--268
+Underfull \hbox (badness 4872) in paragraph at lines 270--270
 [][]\OT1/ppl/b/n/12 Student & Course Man-age-ment Sys-tem[]
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 268--268
+Underfull \hbox (badness 3118) in paragraph at lines 270--270
 \OT1/ppl/m/n/10 -| A Sim-ple Real-Time fac-ulty and stu-dent based
  []
 
 File: images/github.png Graphic file (type png)
 <use images/github.png>
-Package pdftex.def Info: images/github.png  used on input line 268.
+Package pdftex.def Info: images/github.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 11.37819pt.
 File: images/linkedin.png Graphic file (type png)
 <use images/linkedin.png>
-Package pdftex.def Info: images/linkedin.png  used on input line 268.
+Package pdftex.def Info: images/linkedin.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 11.38081pt.
 File: images/hackerrank.png Graphic file (type png)
 <use images/hackerrank.png>
-Package pdftex.def Info: images/hackerrank.png  used on input line 268.
+Package pdftex.def Info: images/hackerrank.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 11.46573pt.
 File: images/codechef.png Graphic file (type png)
 <use images/codechef.png>
-Package pdftex.def Info: images/codechef.png  used on input line 268.
+Package pdftex.def Info: images/codechef.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 14.31868pt.
 File: images/codeforces.png Graphic file (type png)
 <use images/codeforces.png>
-Package pdftex.def Info: images/codeforces.png  used on input line 268.
+Package pdftex.def Info: images/codeforces.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 7.77713pt.
 File: images/leetcode.png Graphic file (type png)
 <use images/leetcode.png>
-Package pdftex.def Info: images/leetcode.png  used on input line 268.
+Package pdftex.def Info: images/leetcode.png  used on input line 270.
 (pdftex.def)             Requested size: 11.38092pt x 11.61159pt.
 [1
 
@@ -526,7 +526,7 @@ Package rerunfilecheck Info: File `Akash_Rajak_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11070 strings out of 478870
  171910 string characters out of 2848837
- 539397 words of memory out of 3000000
+ 539529 words of memory out of 3000000
  28791 multiletter control sequences out of 15000+600000
  416811 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -539,7 +539,7 @@ rs/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
 Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/aakas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on Akash_Rajak_Resume.pdf (1 page, 1415639 bytes).
+Output written on Akash_Rajak_Resume.pdf (1 page, 1415277 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
